@@ -253,6 +253,7 @@ Info Page
 
 Finance View
 
+![FINANCE VIEW](https://github.com/user-attachments/assets/523d13e3-37e3-43cd-86b9-500375bf8633)
 
 
 Sales View
